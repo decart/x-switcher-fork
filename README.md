@@ -5,6 +5,7 @@ This is a fork of part of another repository (https://github.com/ds-voix/VX-PBX/
 Additional info here: [here](https://habr.com/ru/post/495748/) (Russian text) or [here](draft.txt) (English text)
 
 Unlike the original, the cyclical change of the layout along the left Control key is disabled here.
+To enable it back uncomment this lines: [`main.go#L403-L407`](src/main.go#L403-L407)
 
 ## Compile and install
 
